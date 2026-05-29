@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TicketDatabaseManager">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAgBAAAAA=</HashCode>
+      <FileName>TicketDatabaseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserDatabaseManager">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICCAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAQ=</HashCode>
+      <FileName>UserDatabaseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.ViewTicketForm" Collapsed="true">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAQACAAAACAAAAEAAAIAAAAI=</HashCode>
+      <FileName>ViewTicketForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="15.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ITHelpDeskTeamB.AdminForm" Collapsed="true">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAIAAAACAQIACAEAAAAAAAEAAACAAAAA=</HashCode>
+      <FileName>AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.AdminUserManagement" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAkAECAQCAiAAgCAAAgCACgACAAAAQoACAAAAAA=</HashCode>
+      <FileName>AdminUserManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.AdminViewTicketForm" Collapsed="true">
+    <Position X="15" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACAAAACACgAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>AdminViewTicketForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.CreateUserForm" Collapsed="true">
+    <Position X="17" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQACACAAEAAAKAIAACAAAAAoAgBgAAAEABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.ITSupportForm" Collapsed="true">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIEACAgABCAAACAAAACAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ITSupportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.LoginForm" Collapsed="true">
+    <Position X="13" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAECAAABAAAACAAAACAWAAKAAAAhABAABAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.MemberForm" Collapsed="true">
+    <Position X="15" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAABAAAgCAAAACAAAAAAAAAAAAICBAAAA=</HashCode>
+      <FileName>MemberForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.MyTickets" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedToPoint="true">
+      <Path>
+        <Point X="16.5" Y="2.941" />
+        <Point X="16.5" Y="4.05" />
+        <Point X="16.7" Y="4.05" />
+        <Point X="16.7" Y="6.45" />
+        <Point X="17.75" Y="6.45" />
+        <Point X="17.75" Y="6.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAECAAAAAAAACAAAACACgAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>MyTickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.OnlineHelpForm" Collapsed="true">
+    <Position X="17" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBECAAABAAADyAAAACAAAkAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>OnlineHelpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.RaiseTicketForm" Collapsed="true">
+    <Position X="18.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQAAAUACAAAAQQAACAEAACEAAAQBBECgAAEIABCEA=</HashCode>
+      <FileName>RaiseTicketForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITHelpDeskTeamB.SolveTicket" Collapsed="true">
+    <Position X="13" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQIgFACA0CBgFAACAAQgCgAEAQCEAAcAAAIAABAI=</HashCode>
+      <FileName>SolveTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
